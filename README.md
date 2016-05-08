@@ -1,1 +1,1 @@
-# A curated list of awesome RethinkDB resources, libraries, tools and applications
+# A curated list of awesome Horizon resources, libraries, tools and applications
