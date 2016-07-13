@@ -12,6 +12,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
  - [Resources](#resources)
   - [Documentation](#documentation)
   - [Community](#community)
+  - [Tutorials](#tutorials)
 
 <br>
 > <h3>Horizon Ecosystem</h3>
@@ -29,3 +30,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 - [Horizon Google Group](http://horizon.io/)
 - [Horizon YouTube Channel](https://www.youtube.com/channel/UC1kJkmSWt_snLDfuXgJnLnQ)
 - [Horizon Reddit](http://horizon.io/) 
+
+#### Tutorials
+
+- [Build a Tic-Tac-Toe app with Ionic and Horizon](https://www.sitepoint.com/horizon-a-scalable-backend-perfect-for-javascript-mobile-apps/)
+- [React, Webpack, and Horizon Quick Start](https://medium.com/front-end-hacking/react-webpack-and-horizon-quick-start-b9335c1ece53)
