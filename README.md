@@ -20,6 +20,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 
 - [Horizon](http://horizon.io/) - Horizon Documentation
 - [Horizon API](http://horizon.io/) - Horizon API reference
+- [RethinkDB](https://rethinkdb.com/docs/) - RedthinkDB Documentation
+
 
 #### Community
 
